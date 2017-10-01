@@ -4,7 +4,7 @@ Copyright (c) 2017, The Kapela Project
 
 ## Research Resources
 
-Web: [kapela.io](https://kapela.io)  
+Web: [kapela.io](http://kapela.io)  
 Mail: [lab@kapela.io](mailto:lab@kapela.io)  
 
 ## Documentation
