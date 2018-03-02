@@ -13,6 +13,12 @@ Mail: [lab@kapela.io](mailto:lab@kapela.io)
 [CryptoNote Whitepaper Review](whitepaper/cryptonote_whitepaper_review.pdf)<br>
 [DigitalNote Whitepaper](whitepaper/digitalnote_whitepaper.pdf)
 
+### Monero Research Lab Papers: <br>
+[MRL-0001](https://lab.getmonero.org/pubs/MRL-0001.pdf): A Note on Chain Reactions in Traceability in CryptoNote 2.0 <br>
+[MRL-0002](https://lab.getmonero.org/pubs/MRL-0002.pdf): Counterfeiting via Merkle Tree Exploits within Virtual Currencies Employing the CryptoNote Protocol <br>
+[MRL-0003](https://lab.getmonero.org/pubs/MRL-0003.pdf): Monero is Not That Mysterious <br>
+[MRL-0004](https://lab.getmonero.org/pubs/MRL-0004.pdf): Improving Obfuscation in the CryptoNote Protocol <br>
+[MRL-0005](https://lab.getmonero.org/pubs/MRL-0005.pdf): Ring Signature Confidential Transactions <br>
 
 ## About this Project
 
