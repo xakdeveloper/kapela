@@ -11,7 +11,8 @@ Mail: [lab@kapela.io](mailto:lab@kapela.io)
 [CryptoNote Whitepaper](whitepaper/cryptonote_whitepaper.pdf)<br>
 [CryptoNote Whitepaper Annotated](whitepaper/cryptonote_whitepaper_annotated.pdf)<br>
 [CryptoNote Whitepaper Review](whitepaper/cryptonote_whitepaper_review.pdf)<br>
-[DigitalNote Whitepaper](whitepaper/digitalnote_whitepaper.pdf)
+[DigitalNote Whitepaper](whitepaper/digitalnote_whitepaper.pdf)<br>
+[Kapela Primer](PRIMER.md)
 
 ### Monero Research Lab Papers: <br>
 [MRL-0001](https://lab.getmonero.org/pubs/MRL-0001.pdf): A Note on Chain Reactions in Traceability in CryptoNote 2.0 <br>
