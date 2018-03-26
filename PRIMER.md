@@ -28,6 +28,16 @@ TL;DR: C++ to JavaScript. Web, Desktop, and Mobile applications. Source and tool
 
 The extended idea of The Kapela Project is to develop a Proof-of-Stake decentralized full-suite communications platform and payment gateway. With a PoS consensus model, the average, and majority, of users will not have to sync with the blockchain or even run a node to participate in the network. By initiating simple P2P verification with a validator node, gateway node or similar, a user has full operational capabilities on the network. This of course allows anyone with a computer and some coins the ability to upkeep the network in a similar manner as a Proof-of-Work miner on a common blockchain, but with less computational restrictions. This is especially important since the target audience will be mobile users who simply want secure uncensorable communications and a fluid method of transacting and storing their digital assets. Due to the projected audience, the mobility of the Kapela network will play a major part in its growth.
 
+In order to meet the cross-platform standards, all of the internal systems and modules of Kapela that are client side will be written and handled in JavaScript. With the release of an initial alpha web application, users will be able to utilize their browser for test connections to peers, at which point they can send instant messages and basic coin transfers. As we develop closer to beta version for the web application, all of the described features and technology in this Primer will be implemented. The source code for the web application will then be tweaked for integration with both [Electron](https://electronjs.org/) for cross-platform desktop application, and with [React Native](https://facebook.github.io/react-native/) for cross-platform mobile applications.
+
+With different functionality being present in different segments of Kapela, there are different nodes that are utilized for these features to work in scale:
+- **Validator Nodes:** for blockchain consensus
+- **Gateway Nodes:** for extended access to the network
+- **Storage Nodes:** for sharded file storage
+- **Client Nodes:** all base users on the network
+
+All nodes are in contact with the Validator Nodes in some way, and by conducting operations, these nodes earn coin emissions on the network as well as any fees for intensive transactions by users.
+
 
 ## Plans:
 
