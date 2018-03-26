@@ -74,3 +74,25 @@ In order to meet the cross-platform standards, all of the internal systems and m
 
 
 ## Technology:
+
+### Peer-to-Peer Communications:
+
+### Public Key Cryptography:
+
+### Byzantine-Fault Tolerant State Machine Replication:
+
+### One-time Keys:
+
+### Ring Signatures:
+
+### Proof-of-Stake Consensus:
+
+### Internal Bandwidth Valuation Monetary Units:
+
+### Smooth Emissions:
+
+### Double-spending Proof:
+
+### Blockchain Analysis Resistant:
+
+### Adaptive Parameters and Limits:
