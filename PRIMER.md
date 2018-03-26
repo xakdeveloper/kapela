@@ -48,5 +48,29 @@ In order to meet the cross-platform standards, all of the internal systems and m
 
 ## Features:
 
+### Always Encrypted and Private
+
+### Instant Messaging
+
+### Audio and Video Messages
+
+### Voice Calls
+
+### Video Calls
+
+### Secure File Sharing
+
+### Private File Storage
+
+### Rich Conversations
+
+### Timed Messages
+
+### Digital Assets
+
+### Payment Gateway
+
+### Simple Smart Contracts
+
 
 ## Technology:
