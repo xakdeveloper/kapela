@@ -3,7 +3,7 @@
 
 Overview: Kapela is a blockchain-powered messaging and payment platform. Messages and payments can be sent as anonymously and securely as one would require, and with a decentralized structure, there is no single point of failure where stored data can be accessed without the permission of a user's private key signature. This results in a cross-platform method of transacting that we are all used to, but without the censorship we face on a daily basis.
 
-**Last Updated:** March 26, 2018
+**Last Updated:** March 30, 2018
 
 ###### [← Return to Main Page](https://github.com/kapela-project/kapela/)
 
@@ -11,7 +11,7 @@ Overview: Kapela is a blockchain-powered messaging and payment platform. Message
 
 Copyright (c) 2018 The Kapela Project
 
-Without permission, anyone may use, reproduce or distribute any material in this Manila Paper for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notices are cited.
+Without permission, anyone may use, reproduce or distribute any material in this Primer for non-commercial and educational use (i.e., other than for a fee or for commercial purposes) provided that the original source and the applicable copyright notices are cited.
 
 **DISCLAIMER:** This Kapela Primer is for information purposes only. Neither Kapela Communications nor The Kapela Project guarantee the accuracy of, or the conclusions reached, in this Primer, and this Primer is provided “as is”. Neither Kapela Communications nor The Kapela Project make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, suitability, usage, title or noninfringement; (ii) that the contents of this Primer are free from error; and (iii) that such contents will not infringe third-party rights. The Kapela Project and its affiliates shall have no liability for damages of any kind arising out of the use, reference to, or reliance on this Manila Paper or any of the content contained herein, even if advised of the possibility of such damages. In no event will Kapela Communications, The Kapela Project, or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special for the use of, reference to, or reliance on this Primer or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses.
 
@@ -34,7 +34,8 @@ With different functionality being present in different segments of Kapela, ther
 - **Validator Nodes:** for blockchain consensus
 - **Gateway Nodes:** for extended access to the network
 - **Storage Nodes:** for sharded file storage
-- **Client Nodes:** all base users on the network
+- **Client Nodes:** all base users on the network<br>
+    - **Verified Nodes:** verified clients for social networking
 
 All nodes are in contact with the Validator Nodes in some way, and by conducting operations, these nodes earn coin emissions on the network as well as any fees for intensive transactions by users.
 

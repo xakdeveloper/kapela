@@ -8,10 +8,10 @@ Web: [kapela.io](http://kapela.io)
 Mail: [lab@kapela.io](mailto:lab@kapela.io)  
 
 ## Documentation
-[CryptoNote Whitepaper](whitepaper/cryptonote_whitepaper.pdf)<br>
-[CryptoNote Whitepaper Annotated](whitepaper/cryptonote_whitepaper_annotated.pdf)<br>
-[CryptoNote Whitepaper Review](whitepaper/cryptonote_whitepaper_review.pdf)<br>
-[DigitalNote Whitepaper](whitepaper/digitalnote_whitepaper.pdf)<br>
+[CryptoNote Whitepaper](whitepapers/cryptonote_whitepaper.pdf)<br>
+[CryptoNote Whitepaper Annotated](whitepapers/cryptonote_whitepaper_annotated.pdf)<br>
+[CryptoNote Whitepaper Review](whitepapers/cryptonote_whitepaper_review.pdf)<br>
+[DigitalNote Whitepaper](whitepapers/digitalnote_whitepaper.pdf)<br>
 [Kapela Primer](PRIMER.md)
 
 ### Monero Research Lab Papers: <br>
@@ -23,7 +23,7 @@ Mail: [lab@kapela.io](mailto:lab@kapela.io)
 
 ## About this Project
 
-Research activities performed by members of the Kapela Research Lab, and others, are stored here to make collaboration easy, and to allow for other researchers to pick up where someone leaves off. Repository previously "research-lab" now standard documentation name "kapela" with each implementation of this documentation named in the following example: "js-kapela" for JavaScript implementation. 
+Research activities performed by members of the Kapela Research Lab, and others, are stored here to make collaboration easy, and to allow for other researchers to pick up where someone leaves off. Repository previously "research-lab" now standard documentation name "kapela" with each implementation of this documentation named in the following example: "js-kapela" for JavaScript implementation.
 
 This project is covered by the MIT license as listed below. Contributors are welcome and warmly invited, but are expected to work in their own forks before submitting pull requests to this repository.
 
