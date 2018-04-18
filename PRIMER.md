@@ -82,6 +82,8 @@ Forward secrecy is designed to prevent the compromise of a long-term secret key 
 
 ### Audio and Video Messages
 
+Users can record memos and video clips inside the Kapela app, and then send these as messages within any direct or group chat. The audio and video clips are encrypted and uploaded to the Kapela storage system where only the user's account can have access or authorize external access to other accounts. The ability to send quick voice bits instead of written text has become very popular among people in Asia, the Middle East and South America.
+
 ### Voice Calls
 
 ### Video Calls
