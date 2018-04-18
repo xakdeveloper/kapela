@@ -76,6 +76,10 @@ With correct authentication, one account can works on multiple devices, with you
 
 ### Instant Messaging
 
+Instant messaging refers to the instantaneous exchanging of text-based messages and binary entities, such as pictures, videos, and files between users on the network. Users can send messages directly 1:1, in groups, supergroups, or channels. All private data exchanges within Kapela are subject to end-to-end encryption with the direct intention of providing users with a strong degree of privacy and security. Message exchanges are also cryptographically programmed with forward and backward secrecy, so a compromised key has minimal impact.
+
+Forward secrecy is designed to prevent the compromise of a long-term secret key from affecting the confidentiality of past conversations, however, it does not protect against cryptanalysis of the underlying ciphers being used, which such attacks decrypt messages without the key, as forward secrecy only protects keys, not the ciphers themselves. By using one-time keys for transactions, sessions, and for every message exchange, we can greatly reduce any possibility of cryptanalysis due to above-industry standard encryption methods and our key management system. Any attempt at decryption would be extremely computationally expensive or simply futile.
+
 ### Audio and Video Messages
 
 ### Voice Calls
