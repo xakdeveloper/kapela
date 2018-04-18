@@ -15,6 +15,7 @@ Without permission, anyone may use, reproduce or distribute any material in this
 
 **DISCLAIMER:** This Kapela Primer is for information purposes only. Neither Kapela Communications nor The Kapela Project guarantee the accuracy of, or the conclusions reached, in this Primer, and this Primer is provided “as is”. Neither Kapela Communications nor The Kapela Project make and expressly disclaims all representations and warranties, express, implied, statutory or otherwise, whatsoever, including, but not limited to: (i) warranties of merchantability, fitness for a particular purpose, suitability, usage, title or noninfringement; (ii) that the contents of this Primer are free from error; and (iii) that such contents will not infringe third-party rights. The Kapela Project and its affiliates shall have no liability for damages of any kind arising out of the use, reference to, or reliance on this Primer or any of the content contained herein, even if advised of the possibility of such damages. In no event will Kapela Communications, The Kapela Project, or its affiliates be liable to any person or entity for any damages, losses, liabilities, costs or expenses of any kind, whether direct or indirect, consequential, compensatory, incidental, actual, exemplary, punitive or special for the use of, reference to, or reliance on this Primer or any of the content contained herein, including, without limitation, any loss of business, revenues, profits, data, use, goodwill or other intangible losses.
 
+
 ## Main Idea:
 
 The main idea of The Kapela Project was to fork the DigitalNote project. The decline of DigitalNote can be found in the lack of developer support, as the community seems to still pursue activity and growth, but are not receiving the support needed to even operate the software efficiently. We have no plans on picking up a project from the ashes without receiving a large stake in such project, and with no central authority to dictate such stakes, we are left with the clear solution of forking the software and consuming the previous community base.
@@ -68,6 +69,10 @@ All nodes are in contact with the Validator Nodes in some way, and by conducting
 ## Features:
 
 ### Always Encrypted and Private
+
+Messages, calls, videos, file transfers, payments, etc are all secured with end-to-end encryption. User personal information and data is also encrypted using the user's private key in order to ensure there are no possible breaches, leaks or publications unless the user authorizes it. Only your private key can access your data.
+
+With correct authentication, one account can works on multiple devices, with your data being encrypted for each device. Just sign in with your account information or invoke your private key to unlock your account on the device and prove authentication. With Kapela being able to work cross-platform on web, mobile, and desktop; being able to access your account on multiple devices while keeping your data in sync will be a major reason to use our platform.
 
 ### Instant Messaging
 
