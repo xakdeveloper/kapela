@@ -8,13 +8,16 @@ Web: [kapela.io](http://kapela.io)
 Mail: [lab@kapela.io](mailto:lab@kapela.io)  
 
 ## Documentation
+
+[Kapela Primer](PRIMER.md)
+
+### External Research and Inspiration: <br>
 [CryptoNote Whitepaper](whitepapers/cryptonote_whitepaper.pdf)<br>
 [CryptoNote Whitepaper Annotated](whitepapers/cryptonote_whitepaper_annotated.pdf)<br>
 [CryptoNote Whitepaper Review](whitepapers/cryptonote_whitepaper_review.pdf)<br>
 [DigitalNote Whitepaper](whitepapers/digitalnote_whitepaper.pdf)<br>
-[Kapela Primer](PRIMER.md)
 
-### Monero Research Lab Papers: <br>
+#### Monero Research Lab Papers: <br>
 [MRL-0001](https://lab.getmonero.org/pubs/MRL-0001.pdf): A Note on Chain Reactions in Traceability in CryptoNote 2.0 <br>
 [MRL-0002](https://lab.getmonero.org/pubs/MRL-0002.pdf): Counterfeiting via Merkle Tree Exploits within Virtual Currencies Employing the CryptoNote Protocol <br>
 [MRL-0003](https://lab.getmonero.org/pubs/MRL-0003.pdf): Monero is Not That Mysterious <br>
@@ -37,8 +40,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Parts of the project are originally copyright (c):  
-2011-2016 The CryptoNote developers  
-2014-2017 XDN-project developers  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
