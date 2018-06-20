@@ -53,11 +53,17 @@ All nodes are in contact with the Validator Nodes in some way, and by conducting
 
 ### Web Application
 
+The web application for Kapela is an essential function that we believe will enhance our users experience. The ability to use a web application over a desktop application or mobile application we believe is a strong feature that many will love. The web application will consist of all major features that the desktop and mobile applications have. A big advantage of having a web application for our users is the ability to have a broad range dashboard that will be able to be customized with ease. You will be able to have direct API functionality for popular applications within Kapela as well. 
+
 ### MacOS Application
+
+With MacOS being a forefront in emerging technology our main priority of focus was towards our development of a fully functional MacOS application. The Mac application will consist of all the features that Kapela has to offer and will have direct integration with popular applications that exist in MacOS such as: Contacts, Calendar, File sharing, notes and several other popular features that Mac has to offer. These features along with others are can be enabled and disabled through your preference menu located within the Kapela application.
 
 ### Linux Application
 
 ### Windows Application
+
+The Windows application will be a very big essential to the deployment of Kapela. Windows capatible devices are 4x more common in households according to several recent studies. With that being said we want to make sure we reach all the users that are custom to Windows. All features will be available within the application and will be able to have several integrations such as: Contacts, notes, file sharing, along with several other features. All of which can be enabled and disabled through your preference menu located within the Kapela application.
 
 ### iOS Application
 
