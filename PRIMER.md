@@ -105,6 +105,9 @@ Users can record memos and video clips inside the Kapela app, and then send thes
 
 ### Timed Messages
 
+Ever worried about someone accessing your messaging application or confused on how to delete sensitive material on the application... No need to worry, Kapela comes equipped with a self set timer that the sender will be able to select the duration of the message. If a timed message is sent then the certain message will be deemed
+'sensitive' and therefor will notify the sender if a screenshot or screen record is taken of the message. You can use this feature by holding down the send button and selecting 'add timer'. You can enable and disable this feature in your Kapela preference menu.
+
 ### Digital Assets
 
 ### Payment Gateway
