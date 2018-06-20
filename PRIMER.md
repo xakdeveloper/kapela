@@ -73,6 +73,7 @@ The ability to access Kapela on the go is an integral step in our development of
 
 ### Chrome Extension
 
+The Chrome Extension will enable users to have shortcuts to Kapela while doing everyday web browsing on the Google Chrome application. When promoted for a payment, messages, contact info, etc, there will be a direct link where Kapela will be able to fill the field necessary. You will be able to link the Kapela extension to your desktop application for quick access.
 
 ## Features:
 
