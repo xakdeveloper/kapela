@@ -53,7 +53,7 @@ All nodes are in contact with the Validator Nodes in some way, and by conducting
 
 ### Web Application
 
-The web application for Kapela is an essential function that we believe will enhance our users experience. The ability to use a web application over a desktop application or mobile application we believe is a strong feature that many will love. The web application will consist of all major features that the desktop and mobile applications have. A big advantage of having a web application for our users is the ability to have a broad range dashboard that will be able to be customized with ease. You will be able to have direct API functionality for popular applications within Kapela as well. 
+The web application for Kapela is an essential function that we believe will enhance our users experience. The ability to use a web application over a desktop application or mobile application we believe is a strong feature that many will love. The web application will consist of all major features that the desktop and mobile applications have. A big advantage of having a web application for our users is the ability to have a broad range dashboard that will be able to be customized with ease. You will be able to have direct API functionality for popular applications within Kapela as well.
 
 ### MacOS Application
 
@@ -63,9 +63,11 @@ With MacOS being a forefront in emerging technology our main priority of focus w
 
 ### Windows Application
 
-The Windows application will be a very big essential to the deployment of Kapela. Windows capatible devices are 4x more common in households according to several recent studies. With that being said we want to make sure we reach all the users that are custom to Windows. All features will be available within the application and will be able to have several integrations such as: Contacts, notes, file sharing, along with several other features. All of which can be enabled and disabled through your preference menu located within the Kapela application.
+The Windows application will be a very big essential to the deployment of Kapela. Windows compatible devices are 4x more common in households according to several recent studies. With that being said we want to make sure we reach all the users that are custom to Windows. All features will be available within the application and will be able to have several integrations such as: Contacts, notes, file sharing, along with several other features. All of which can be enabled and disabled through your preference menu located within the Kapela application.
 
 ### iOS Application
+
+The ability to access Kapela on the go is an integral step in our development of Kapela. Everywhere you go around the world you will see people using their smart phones either texting, calling, playing games, etc. It is essential for a messaging application to be accessible to your personal wherever you are located so the development of Kapela for iOS was of upmost importance. You will be able to have all the popular features that we have to offer as well as multiple integrations that are located within iOS devices. You will be able to download the application via the App Store.
 
 ### Android Application
 
