@@ -71,6 +71,8 @@ The ability to access Kapela on the go is an integral step in our development of
 
 ### Android Application
 
+Like the iOS applicaiton, the ability to access the Kapela app on the go is of upmost importance for a successful project. With Android being the second most popular mobile device software used to communicate around the world it was essential that Kapela will be able to operate on Android. Users will have access to all core functions of Kapela and like the iOS application, be able to sync contacts, link applicable applications, and much more. The Kapela application will be accessible via the Google play store.
+
 ### Chrome Extension
 
 The Chrome Extension will enable users to have shortcuts to Kapela while doing everyday web browsing on the Google Chrome application. When promoted for a payment, messages, contact info, etc, there will be a direct link where Kapela will be able to fill the field necessary. You will be able to link the Kapela extension to your desktop application for quick access.
@@ -105,8 +107,7 @@ Users can record memos and video clips inside the Kapela app, and then send thes
 
 ### Timed Messages
 
-Ever worried about someone accessing your messaging application or confused on how to delete sensitive material on the application... No need to worry, Kapela comes equipped with a self set timer that the sender will be able to select the duration of the message. If a timed message is sent then the certain message will be deemed
-'sensitive' and therefor will notify the sender if a screenshot or screen record is taken of the message. You can use this feature by holding down the send button and selecting 'add timer'. You can enable and disable this feature in your Kapela preference menu.
+Ever worried about someone accessing your messaging application or confused on how to delete sensitive material on the application... No need to worry, Kapela comes equipped with a self set timer that the sender will be able to select the duration of the message. If a timed message is sent then the certain message will be deemed 'sensitive' and therefor will notify the sender if a screenshot or screen record is taken of the message. You can use this feature by holding down the send button and selecting 'add timer'. You can enable and disable this feature in your Kapela preference menu.
 
 ### Digital Assets
 
