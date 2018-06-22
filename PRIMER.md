@@ -103,9 +103,15 @@ You will be able to simply type a name and it will search through our database w
 
 ### Video Calls
 
-### Secure File Sharing
+Video calling has been a huge explosion as a form of communication in the recent years, particular the application called 'Facetime' that is available on iOS devices. However, the big issue with Facetime is that there is currently no ability to have multiple people in one call. We have read feedback from iOS users regarding this issue and we created a way that solves their concerns.
 
-### Private File Storage
+With Kapela, not only will it be hosted on a blockchain but on it you will be able to have a group video call with your associates. With a simple click of a button you can call whoever you like and add your friends as well. We strongly believe that this feature will be a huge success and very popular amongst our users.
+
+### Secure File Sharing and Storage
+
+Our secure file sharing is protected with IPFS, which provides for a totally complete decentralized environment for our users to secure their files. Only you will have access to your cloud and you will be able to store as many files as you would like according to your specific cloud database.
+
+In order to share files, users will navigate to their file browser and will be able to share the invidual file/folder with your associates by simply typing in their username in the share box and send it off. The receiver of the file will then have full access or specific access according to the limitations that you have set forth. For example, if you have a word document that you do not want edited but needs to be shared, you can send it to a username with the title 'read' to prevent the user(s) from editing the document.
 
 ### Rich Conversations
 
