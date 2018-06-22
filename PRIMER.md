@@ -97,6 +97,10 @@ Users can record memos and video clips inside the Kapela app, and then send thes
 
 ### Voice Calls
 
+Kapela is the first of its kind. Never before has there been an effective voice call application hosted on the blockchain. With Kapela, you will be able to call your associates via their username. No need to remember phone numbers or have to worry about number changing. With the ability to call users by their username you will be able to access a broad range of new individuals. Most individuals who use social media platforms generally have the same or similar user name as a different platform.
+
+You will be able to simply type a name and it will search through our database with profile names and usernames that are similar to a name or directly type in a username to host a voice call. If you are worried that you could be spammed with calls, no need to worry you will only be able to see notifications from users on your friend list or if you enable a setting 'allow calls from all users'.
+
 ### Video Calls
 
 ### Secure File Sharing
