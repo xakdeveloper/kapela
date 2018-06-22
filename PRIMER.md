@@ -129,6 +129,8 @@ Users will be able to send, receive, and store the KAP coins via the Kapela appl
 
 ### Payment Gateway
 
+You will be able to accept the popular coins such as BitCoin, Ethereum, Litecoin, and Kapela as forms of payment. Similar to 'Apple Pay' users will be able to send crypto to friends by simply selecting the send money feature located within the messenger. Once selected, you will be prompted to: Select the coin, type either the USD value or coin amount, then select send. While doing so, users will be able to monitor their balance to avoid any sending errors. If you accidentally select to send more then your balance holds, the user will recieve an error message prompting them to recheck their balance.
+
 ### Simple Smart Contracts
 
 On the Kapela application users will be able to deploy their own smart contracts for their projects. Like Ethereum this is a strong method that we believe will take Kapela to the next level and grow and thrive the crypto space.
