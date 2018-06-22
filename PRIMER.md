@@ -57,13 +57,15 @@ The web application for Kapela is an essential function that we believe will enh
 
 ### MacOS Application
 
-With MacOS being a forefront in emerging technology our main priority of focus was towards our development of a fully functional MacOS application. The Mac application will consist of all the features that Kapela has to offer and will have direct integration with popular applications that exist in MacOS such as: Contacts, Calendar, File sharing, notes and several other popular features that Mac has to offer. These features along with others are can be enabled and disabled through your preference menu located within the Kapela application.
+With MacOS being a forefront in emerging technology our main priority of focus was towards our development of a fully functional MacOS application. The Mac application will consist of all the features that Kapela has to offer and will have direct integration with popular applications that exist in MacOS such as: Contacts, Calendar, File sharing, notes and several other popular features that Mac has to offer. These features along with others are can be enabled and disabled through your preference menu located within the Kapela application. The MacOS application will be available for download via the Kapela website.
 
 ### Linux Application
 
+The Linux Application was designed with all the core features that Kapela has to offer. Similar to the Mac and Windows application, you will be able to access contacts and files via the Kapela application and share them amongst your associates. The messenger will be fully accessible and the customization features are all present. The Linux application for Kapela will be available for download via the Kapela website.
+
 ### Windows Application
 
-The Windows application will be a very big essential to the deployment of Kapela. Windows compatible devices are 4x more common in households according to several recent studies. With that being said we want to make sure we reach all the users that are custom to Windows. All features will be available within the application and will be able to have several integrations such as: Contacts, notes, file sharing, along with several other features. All of which can be enabled and disabled through your preference menu located within the Kapela application.
+The Windows application will be a very big essential to the deployment of Kapela. Windows compatible devices are 4x more common in households according to several recent studies. With that being said we want to make sure we reach all the users that are custom to Windows. All features will be available within the application and will be able to have several integrations such as: Contacts, notes, file sharing, along with several other features. All of which can be enabled and disabled through your preference menu located within the Kapela application. The Windows application will be available for download via the Kapela website.
 
 ### iOS Application
 
@@ -129,7 +131,7 @@ Users will be able to send, receive, and store the KAP coins via the Kapela appl
 
 ### Simple Smart Contracts
 
-On the Kapela application users will be able to deploy their own smart contracts for their projects. Like Ethereum this is a strong method that we believe will take Kapela to the next level and grow and thrive the crypto space. 
+On the Kapela application users will be able to deploy their own smart contracts for their projects. Like Ethereum this is a strong method that we believe will take Kapela to the next level and grow and thrive the crypto space.
 
 
 ## Technology:
