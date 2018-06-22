@@ -129,6 +129,8 @@ Users will be able to send, receive, and store the KAP coins via the Kapela appl
 
 ### Simple Smart Contracts
 
+On the Kapela application users will be able to deploy their own smart contracts for their projects. Like Ethereum this is a strong method that we believe will take Kapela to the next level and grow and thrive the crypto space. 
+
 
 ## Technology:
 
