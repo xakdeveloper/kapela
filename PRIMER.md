@@ -123,6 +123,8 @@ Ever worried about someone accessing your messaging application or confused on h
 
 ### Digital Assets
 
+Users will be able to send, receive, and store the KAP coins via the Kapela application. We wanted to make sure that your assets are as simple to manage as possible. The Kapela dashboard will enable users to track their balance, transactions, and purchases. Users will never have an issue forgetting where something went or what it was used for. In each transaction box, users can type a short description to remember what has transpired according to each individual transaction. Popular coins such as BitCoin, Ethereum, and Litecoin will be easily exchanged into KAP via the Kapela application. Each conversion is logged with the value of each token involved in the exchange, dated, and timestamped to ensure 100% accuracy.
+
 ### Payment Gateway
 
 ### Simple Smart Contracts
