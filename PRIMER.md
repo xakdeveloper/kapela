@@ -117,7 +117,7 @@ In order to share files, users will navigate to their file browser and will be a
 
 ### Rich Conversations
 
-In the modern society we have multiple ways of communicating via messages. There are Emojis, Gifs, Files, Pictures, etc that can all be sent through popular messaging platforms. In Kapela we wanted to embody those specific features to enable our users to have the best expiernce possible. Users will be able to customize your message in terms of color, font, and size. Users will be able to copy/send specic items from websites and open without leaving the application. All will be available in group messages as well with no limit on the amount of users in a thread. Users will be able to have the experience like no other in terms of full customization and unlimited messaging.
+In the modern society we have multiple ways of communicating via messages. There are Emojis, Gifs, Files, Pictures, etc that can all be sent through popular messaging platforms. In Kapela we wanted to embody those specific features to enable our users to have the best experience possible. Users will be able to customize your message in terms of color, font, and size. Users will be able to copy/send specific items from websites and open without leaving the application. All will be available in group messages as well with no limit on the amount of users in a thread. Users will be able to have the experience like no other in terms of full customization and unlimited messaging.
 
 ### Timed Messages
 
