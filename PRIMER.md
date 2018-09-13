@@ -3,7 +3,7 @@
 
 Overview: Kapela is a blockchain-powered messaging and payment platform. Messages and payments can be sent as anonymously and securely as one would require, and with a decentralized structure, there is no single point of failure where stored data can be accessed without the permission of a user's private key signature. This results in a cross-platform method of transacting that we are all used to, but without the censorship we face on a daily basis.
 
-**Last Updated:** March 30, 2018
+**Last Updated:** April 19 2018
 
 ###### [← Return to Main Page](https://github.com/kapela-project/kapela/)
 
@@ -45,7 +45,11 @@ All nodes are in contact with the Validator Nodes in some way, and by conducting
 
 ### Chat Protocol
 
+The development of the networking and messaging protocols are the foundation for the Kapela network. Providing the ability for peers to discover, connect, cryptographically handshake, and establish secure encrypted communications without a centralized trusted third-party is the focus for all features within the platform.
+
 ### Coin Protocol
+
+The development and implementation of an internal coin for monetary measurements of activities requiring peers outside of personal systems, such as miners, validators, storage providers, and for Bandwidth exchanges.
 
 ### Storage Protocol
 
